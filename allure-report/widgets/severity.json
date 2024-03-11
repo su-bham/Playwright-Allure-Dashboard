@@ -1,1 +1,1 @@
-[]
+[{"uid":"136187ac28b18dcd","name":"Google homepage has correct title","time":{"start":1710160986297,"stop":1710160993205,"duration":6908},"status":"passed","severity":"normal"},{"uid":"a263cc6a92170cb3","name":"Google search results contain Playwright GitHub","time":{"start":1710160986383,"stop":1710161017810,"duration":31427},"status":"broken","severity":"normal"},{"uid":"a981a2af10f26f65","name":"search on Google","time":{"start":1710160986332,"stop":1710161017763,"duration":31431},"status":"broken","severity":"normal"}]
